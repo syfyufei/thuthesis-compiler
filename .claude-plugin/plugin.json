@@ -1,0 +1,15 @@
+{
+  "name": "thuthesis-compiler",
+  "version": "0.1.0",
+  "description": "Compile Quarto book (.qmd chapters) into a thuthesis-formatted PDF dissertation. Handles chapter splitting, heading demotion, citation conversion, image path fixing, and BibTeX integration via XeLaTeX.",
+  "author": {
+    "name": "Adrian",
+    "email": "syfyufei@gmail.com"
+  },
+  "repository": "https://github.com/syfyufei/thuthesis-compiler",
+  "keywords": ["latex", "thuthesis", "quarto", "dissertation", "phd", "xelatex", "academic"],
+  "license": "MIT",
+  "commands": [
+    "./commands/compile.md"
+  ]
+}
