@@ -2,6 +2,8 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
+🌐 **[Visit the homepage →](https://adriansun.drhuyue.site/thu-forge/)**
+
 > Forge a [Quarto](https://quarto.org/) book dissertation into a **清华大学学位论文** PDF, typeset with the upstream [thuthesis](https://github.com/tuna/thuthesis) LaTeX class.
 
 `thu-forge` is a Claude Code skill that orchestrates the full compilation pipeline from Quarto `.qmd` sources to a thuthesis-formatted PDF via XeLaTeX.

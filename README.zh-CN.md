@@ -2,6 +2,8 @@
 
 [English](README.md) | **简体中文**
 
+🌐 **[访问主页 →](https://adriansun.drhuyue.site/thu-forge/)**
+
 > 将 [Quarto](https://quarto.org/) book 格式的学位论文「锻造」为使用上游 [thuthesis](https://github.com/tuna/thuthesis) 排版的 **清华大学学位论文** PDF。
 
 `thu-forge` 是一个 Claude Code skill,负责编排从 Quarto `.qmd` 源文件到 thuthesis 排版 PDF 的完整编译流水线(经由 XeLaTeX)。
