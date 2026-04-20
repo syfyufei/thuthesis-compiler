@@ -9,7 +9,6 @@
   "repository": "https://github.com/syfyufei/thu-forge",
   "keywords": ["latex", "thuthesis", "quarto", "dissertation", "phd", "xelatex", "academic"],
   "license": "MIT",
-  "commands": [
-    "./commands/compile.md"
-  ]
+  "skills": ["./skills/"],
+  "commands": ["./commands/compile.md"]
 }

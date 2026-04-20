@@ -33,11 +33,19 @@
 
 ## ✦ Quickstart
 
+**Local install** — clone this repo and register it as a marketplace:
+
 ```bash
-bash install.sh
+git clone https://github.com/syfyufei/thu-forge.git
+claude plugin marketplace add ./thu-forge
+claude plugin install thu-forge@thu-forge
 ```
 
-<sub>or manually: <code>claude plugin install thu-forge</code></sub>
+**Or try it without installing** — use `--plugin-dir` in any Claude Code session:
+
+```bash
+claude --plugin-dir ./thu-forge
+```
 
 Then, from inside your dissertation project:
 
@@ -45,7 +53,7 @@ Then, from inside your dissertation project:
 /thu-forge:compile
 ```
 
-The skill verifies your configuration, validates `CHAPTER_GROUPS`, runs the build, and reports any errors.
+Claude can also auto-invoke the skill when you ask it to *"compile my Quarto thesis"* or *"build the thuthesis PDF"* — no slash command needed.
 
 ---
 

@@ -33,19 +33,27 @@
 
 ## ✦ 快速上手
 
+**本地安装** — 克隆本仓库并注册为 marketplace：
+
 ```bash
-bash install.sh
+git clone https://github.com/syfyufei/thu-forge.git
+claude plugin marketplace add ./thu-forge
+claude plugin install thu-forge@thu-forge
 ```
 
-<sub>或手动安装：<code>claude plugin install thu-forge</code></sub>
+**或免安装试用** — 在任意 Claude Code 会话中用 `--plugin-dir`：
 
-在你的论文项目目录下调用：
+```bash
+claude --plugin-dir ./thu-forge
+```
+
+然后在你的论文项目目录下调用：
 
 ```text
 /thu-forge:compile
 ```
 
-本 skill 会先校验配置、验证 `CHAPTER_GROUPS`、执行完整编译，并报告所有错误。
+你也可以直接对 Claude 说「帮我编译 Quarto 清华学位论文」或「构建 thuthesis PDF」，skill 会自动触发——无需手敲斜杠命令。
 
 ---
 
