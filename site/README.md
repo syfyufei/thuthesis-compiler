@@ -1,6 +1,6 @@
 # site/
 
-Single-page landing site for [thu-forge](https://github.com/syfyufei/thu-forge), deployed to GitHub Pages at <https://syfyufei.github.io/thu-forge/>.
+Single-page landing site for [thu-forge](https://github.com/syfyufei/thu-forge), deployed to GitHub Pages at <https://adriansun.drhuyue.site/thu-forge/>.
 
 ## Source
 

@@ -2,7 +2,7 @@
 
 [English](README.md) | **简体中文**
 
-🌐 **[访问主页 →](https://syfyufei.github.io/thu-forge/)**
+🌐 **[访问主页 →](https://adriansun.drhuyue.site/thu-forge/)**
 
 > 将 [Quarto](https://quarto.org/) book 格式的学位论文「锻造」为使用上游 [thuthesis](https://github.com/tuna/thuthesis) 排版的 **清华大学学位论文** PDF。
 

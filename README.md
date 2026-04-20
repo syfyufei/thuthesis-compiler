@@ -2,7 +2,7 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-🌐 **[Visit the homepage →](https://syfyufei.github.io/thu-forge/)**
+🌐 **[Visit the homepage →](https://adriansun.drhuyue.site/thu-forge/)**
 
 > Forge a [Quarto](https://quarto.org/) book dissertation into a **清华大学学位论文** PDF, typeset with the upstream [thuthesis](https://github.com/tuna/thuthesis) LaTeX class.
 
